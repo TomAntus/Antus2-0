@@ -1,4 +1,3 @@
-[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
 
 
 <h1 align="center">
@@ -8,6 +7,7 @@
   Red Discord Bot
   <br>
 </h1>
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
 
 <h4 align="center">Music, Moderation, Trivia, Stream Alerts and Fully Modular.</h4>
 
